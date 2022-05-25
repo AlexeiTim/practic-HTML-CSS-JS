@@ -1,1 +1,1 @@
-# https://github.com/AlexeiTim.github.io/practic-HTML-CSS-JS/
+# https://AlexeiTim.github.io/practic-HTML-CSS-JS/
